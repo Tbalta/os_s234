@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "idt.h": "c",
+        "interrupts.h": "c",
+        "loader.h": "c"
+    }
+}
